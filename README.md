@@ -2,7 +2,7 @@
 <h3 align="center">Application and Project Engineer</h3>
 
 #### Hi, I'm Tanabot
-&nbsp; Exploring new technologies and developing applications in the construction industry and project management
+&nbsp; Exploring new technologies and developing applications in the construction and project management
 
 
 #### Languages
