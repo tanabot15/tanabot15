@@ -17,4 +17,4 @@
 
 #### Projects
 
-[![UnisCalculator](https://img.shields.io/badge/UnisCalculator-lightgray?style=for-the-badge)](https://apps.apple.com/app/uniscalculator/id6453360728)
+[![TradeMindLog](https://img.shields.io/badge/TradeMindLog-black?style=for-the-badge)]([https://apps.apple.com/app/uniscalculator/id6453360728](https://apple.co/4udBbCK))
