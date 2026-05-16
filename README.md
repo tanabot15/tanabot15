@@ -17,4 +17,4 @@
 
 #### Projects
 
-[![TradeMindLog](https://img.shields.io/badge/TradeMindLog-black?style=for-the-badge)]([https://apps.apple.com/app/uniscalculator/id6453360728](https://apple.co/4udBbCK))
+[![TradeMindLog](https://img.shields.io/badge/TradeMindLog-black?style=for-the-badge)](https://apps.apple.com/us/app/trademindlog/id6769014731?itscg=30200&itsct=apps_box_link&mttnsubad=6769014731)
