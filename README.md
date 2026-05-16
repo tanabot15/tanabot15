@@ -2,7 +2,7 @@
 <h3 align="center">Application and Project Engineer</h3>
 
 #### Hi, I'm Tanabot
-&nbsp; Exploring new technologies and developing applications in the construction and project management
+&nbsp; Exploring new technologies and developing applications from Japan!
 
 
 #### Languages
@@ -13,8 +13,6 @@
 #### Technologies
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 #### Projects
-
 [![TradeMindLog](https://img.shields.io/badge/TradeMindLog-black?style=for-the-badge)](https://apps.apple.com/us/app/trademindlog/id6769014731?itscg=30200&itsct=apps_box_link&mttnsubad=6769014731)
